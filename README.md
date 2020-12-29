@@ -1,0 +1,2 @@
+# purescript-learning
+Purescript learning
